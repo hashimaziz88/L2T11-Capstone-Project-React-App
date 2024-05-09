@@ -1,0 +1,25 @@
+/* LoggedInScreen.css */
+
+.logged-in-container {
+  padding: 20px;
+}
+
+.welcome-message {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.login-message {
+  margin-bottom: 30px;
+}
+
+.logout-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.logout-btn:hover {
+  background-color: #007bff;
+  border-color: #007bff;
+}
